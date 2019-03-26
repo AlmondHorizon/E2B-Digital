@@ -18,7 +18,10 @@ body {
 a {
   color: #f82249;
   transition: 0.5s;
+  
 }
+
+
 
 a:hover,
 a:active,
@@ -44,6 +47,7 @@ h6 {
   margin: 0 0 20px 0;
   padding: 0;
   color: #0e1b4d;
+  text-align: center;
 }
 
 .main-page {
@@ -107,6 +111,7 @@ h6 {
   position: relative;
   padding-bottom: 20px;
 }
+
 
 .section-header::before {
   content: '';
